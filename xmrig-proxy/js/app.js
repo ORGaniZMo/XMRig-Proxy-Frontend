@@ -336,7 +336,7 @@ function workers_list(){
 			  '<div class="item-content">'+
 				'<div class="item-inner">'+
 				  '<div class="item-title-row" style="font-size:14px">'+
-					'<div class="item-title">' + item[0].substr(0,8) +( item[0].length > 8 ? ".."+item[0].substr(-4) :"") + '</div>'+
+					'<div class="item-title">' + item[0].substr(0,8) + '</div>'+
 					'<div class="item-after">('+item[2]+') '+item[1]+'</div>'+
 				  '</div>'+
 				  '<div class="item-subtitle" style="font-size:11px;color: rgba(255,255,255,.54)">'+
